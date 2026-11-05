@@ -1,5 +1,5 @@
 function lerTemperatura(){
-    return 25
+    return 26
 }
 
 module.exports = {
